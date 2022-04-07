@@ -9,5 +9,3 @@ main()
 		printf("This is function 2"); }
 }
 
-
-
